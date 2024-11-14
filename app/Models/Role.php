@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Rol extends Model
+class Role extends Model
 {
     /*
     |--------------------------------------------------------------------------
@@ -12,8 +12,8 @@ class Rol extends Model
     |--------------------------------------------------------------------------
     */
 
-    protected $table = 'rol';
-    protected $primaryKey = 'id';
+    // protected $table = 'role';
+    // protected $primaryKey = 'id';
     // public $timestamps = false;
     // protected $guarded = [];
 
